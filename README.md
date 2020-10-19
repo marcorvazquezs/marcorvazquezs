@@ -1,4 +1,4 @@
-[![marco vazquez's header](https://github.com/marcorvazquezs/marcorvazquezs/readme_header.png)](https://marcorvazquez.com)
+[![marco vazquez's header](https://github.com/marcorvazquezs/marcorvazquezs/blob/main/readme_header.PNG)](https://marcorvazquez.com)
 
 
 ### Hi there 👋
