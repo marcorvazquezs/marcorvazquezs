@@ -6,9 +6,6 @@
 
 I want to gain more experience in DevSecOps practices because I find the idea of being able to bake security best practices into the rapid-release cycles of modern application and deployment to be fascinating. I believe this field will allow me to bring my security knowledge into practice while building scalable, secure and reliable infrastructure—giving me the opportunity to bring together two areas I am passionate about, Cybersecurity and Ops.
 
-When I am not studying, building or tinkering with my personal tech projects, you can find me practicing Jiu-Jitsu, reading fantasy / non-fiction books or just enjoying the PNW outdoors.
-
-
 ✍️ Blog & Projects
 ---
 I also maintain a blog - you can find my articles and tech projects at <a href="https://marcorvazquez.com">marcorvazquez.com</a>.
