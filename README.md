@@ -1,19 +1,58 @@
 [![marco vazquez's header](https://github.com/marcorvazquezs/marcorvazquezs/blob/main/readme_header.PNG)](https://marcorvazquez.com)
 
 
-### Hi there 👋
+# Hi there! <img src="https://github.com/marcorvazquezs/marcorvazquezs/blob/main/wave.gif" width="30px">
+<p align="left">My name is Marco Vazquez and I'm an IT Professional with a background in Ops and Cybersecurity with a desire to dive into the DevSecOps world. I am currently pursuing my Masters in Cybersecurity and Information Assurance from Western Governors University. 
 
-<!--
-**marcorvazquezs/marcorvazquezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to gain more experience in DevSecOps practices because I find the idea of being able to bake security best practices into the rapid-release cycles of modern application and deployment to be fascinating. I believe this field will allow me to bring my security knowledge into practice while building scalable, secure and reliable infrastructure—giving me the opportunity to bring together two areas I am passionate about, Cybersecurity and Ops.
 
-Here are some ideas to get you started:
+When I am not studying, building or tinkering with my personal tech projects, you can find me practicing Jiu-Jitsu, reading fantasy / non-fiction books or just enjoying the PNW outdoors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+✍️ Blog & Projects
+---
+I also maintain a blog - you can find my articles and tech projects at <a href="https://marcorvazquez.com">marcorvazquez.com</a>.
+  
+  
+🧰 Tools & Technologies
+---
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-JIRA-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=vultr&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+
+
+🌱 I'm currently learning 
+---
+  * Docker 
+  * Terraform 
+  * Ethical Hacking (CEH certification)
+
+💬 Ask me about ...
+---
+  * Cybersecurity 
+  * Information Security 
+  * Networking 
+  * Ansible 
+  
+📫 How to reach me: ...
+---
+  * <a href="https://www.linkedin.com/in/marcorvazquez/">LinkedIn</a> 💼
+  * <a href="https://marcorvazquez.com">Website</a> 💻
+ 
+
