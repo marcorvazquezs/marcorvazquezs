@@ -57,4 +57,10 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
   * <a href="https://www.linkedin.com/in/marcorvazquez/">LinkedIn</a> 💼
   * <a href="https://marcorvazquez.com">Website</a> 💻
  
+📈 GitHub Stats
+---
+<a href="https://github.com/marcorvazquezs/marcorvazquezs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcorvazquezs&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
