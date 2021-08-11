@@ -1,4 +1,4 @@
-[![marco vazquez's header](https://github.com/marcorvazquezs/marcorvazquezs/blob/7d309059d5b2686d87ea5ae7664e2d57692aea4d/Marco%20Vazquez.png)](https://marcorvazquez.com)
+[![marco vazquez's header](https://github.com/marcorvazquezs/marcorvazquezs/blob/0051694d58cf7067282fa3db1f1e224249ad642f/Marco%20Vazquez.png)](https://marcorvazquez.com)
 
 
 # Hi there! <img src="https://github.com/marcorvazquezs/marcorvazquezs/blob/main/wave.gif" width="30px">
