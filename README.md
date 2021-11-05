@@ -27,6 +27,7 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
 ![](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-JIRA-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
