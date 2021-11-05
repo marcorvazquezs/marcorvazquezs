@@ -43,7 +43,6 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
 ---
   * Docker 
   * Terraform 
-  * Ethical Hacking (CEH certification)
 
 💬 Ask me about ...
 ---
