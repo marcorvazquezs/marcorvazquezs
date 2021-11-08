@@ -2,7 +2,7 @@
 
 
 # Hi there! <img src="https://github.com/marcorvazquezs/marcorvazquezs/blob/main/wave.gif" width="30px">
-<p align="left">My name is Marco Vazquez and I'm an IT Professional with a background in Ops and Cybersecurity with a desire to dive into the DevSecOps world. I am currently pursuing my Masters in Cybersecurity and Information Assurance from Western Governors University. 
+<p align="left">My name is Marco Vazquez and I'm an IT Professional with a background in Ops and Cybersecurity with a desire to dive into the DevSecOps world. I obtained my Masters in Cybersecurity and Information Assurance from Western Governors University in 2021. 
 
 I want to gain more experience in DevSecOps practices because I find the idea of being able to bake security best practices into the rapid-release cycles of modern application and deployment to be fascinating. I believe this field will allow me to bring my security knowledge into practice while building scalable, secure and reliable infrastructure—giving me the opportunity to bring together two areas I am passionate about, Cybersecurity and Ops.
 
