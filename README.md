@@ -42,8 +42,8 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
 
 🌱 I'm currently learning 
 ---
-  * Docker 
-  * Terraform 
+  * Malware Analysis
+  * Terraform
 
 💬 Ask me about ...
 ---
