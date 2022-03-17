@@ -15,6 +15,7 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
 ---
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=kalilinux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -43,7 +44,7 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
 🌱 I'm currently learning 
 ---
   * Malware Analysis
-  * Terraform
+  * Ethical Hacking
 
 💬 Ask me about ...
 ---
