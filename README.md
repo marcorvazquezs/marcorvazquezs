@@ -1,5 +1,11 @@
 [![marco vazquez's header](https://github.com/marcorvazquezs/marcorvazquezs/blob/0051694d58cf7067282fa3db1f1e224249ad642f/Marco%20Vazquez.png)](https://marcorvazquez.com)
 
+<p align="center">
+<a href="https://www.linkedin.com/in/marcorvazquez/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:marcorvazquezs@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
+<a href="https://marcorvazquez.com/" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/webs"></a>&nbsp;&nbsp;
+<a href="https://kb.marcorvazquez.com/" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/"></a>&nbsp;&nbsp;
+</p>
 
 # Hi there! <img src="https://github.com/marcorvazquezs/marcorvazquezs/blob/main/wave.gif" width="30px">
 <p align="left">My name is Marco Vazquez and I'm an IT Professional with a background in Ops and Cybersecurity with a desire to dive into the DevSecOps world. I obtained my Masters in Cybersecurity and Information Assurance from Western Governors University in 2021. 
@@ -39,8 +45,6 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
 ![](https://img.shields.io/badge/Network-WireGuard-informational?style=flat&logo=wireguard&logoColor=white&color=2bbc8a)
 
 
-
-
 🌱 I'm currently learning 
 ---
   * Malware Analysis
@@ -52,16 +56,13 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
   * Information Security 
   * Networking 
   * Ansible 
-  
-📫 How to reach me: ...
----
-  * <a href="https://www.linkedin.com/in/marcorvazquez/">LinkedIn</a> 💼
-  * <a href="https://marcorvazquez.com">Website</a> 💻
  
 📈 GitHub Stats
 ---
-<a href="https://github.com/marcorvazquezs/marcorvazquezs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcorvazquezs&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcorvazquezs&layout=compact&theme=chartreuse-dark&card_width=800)](https://github.com/marcorvazquezs/marcorvazquezs)
+  
+<a href="https://github.com/marcorvazquezs/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcorvazquezs&show_icons=true&theme=chartreuse-dark" />
 </a>
 
 
