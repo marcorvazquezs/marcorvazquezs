@@ -43,6 +43,7 @@ I also maintain a blog - you can find my articles and tech projects at <a href="
 
 ![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Network-WireGuard-informational?style=flat&logo=wireguard&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Network-pfSense-informational?style=flat&logo=pfsense&logoColor=white&color=2bbc8a)
 
 
 🌱 I'm currently learning 
