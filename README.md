@@ -14,7 +14,7 @@ I want to gain more experience in DevSecOps practices because I find the idea of
 
 ✍️ Blog & Projects
 ---
-I also maintain a blog - you can find my articles and tech projects at <a href="https://marcorvazquez.com">marcorvazquez.com</a>.
+I also maintain a <a href="https://marcorvazquez.com">blog</a> and a <a href="https://kb.marcorvazquez.com">personal knowledge base</a>.
   
   
 🧰 Tools & Technologies
