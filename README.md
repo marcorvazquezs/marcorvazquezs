@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marcorvazquez/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:marcorvazquezs@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
+<a href="mailto:marco@marcorvazquez.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <a href="https://marcorvazquez.com/" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/webs.png"></a>&nbsp;&nbsp;
 <a href="https://kb.marcorvazquez.com/" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/kb.png"></a>&nbsp;&nbsp;
 </p>
