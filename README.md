@@ -8,13 +8,17 @@
 </p>
 
 # Hi there! 
-<p align="left">My name is Marco Vazquez and I'm an IT Professional with a background in Ops and Cybersecurity with a desire to dive into the DevSecOps world. I obtained my Masters in Cybersecurity and Information Assurance from Western Governors University in 2021. 
+<p align="left">My name is Marco Vazquez and I am an information security professional living in Seattle, WA. I have over 7 years of experience in IT Operations and Cybersecurity. I started my career in tech, as many of us do, as a User Support Analyst, aka Help Desk Specialist. 
 
-I want to gain more experience in DevSecOps practices because I find the idea of being able to bake security best practices into the rapid-release cycles of modern application and deployment to be fascinating. I believe this field will allow me to bring my security knowledge into practice while building scalable, secure and reliable infrastructure—giving me the opportunity to bring together two areas I am passionate about, Cybersecurity and Ops.
+I have a passion for exploring all things cybersecurity and its evolving landscape. In a field that’s constantly changing, I strive to consistently sharpen and expand my skillset and knowledge.  
+
+Outside of tinkering with technology and reading about cybersecurity, I enjoy practicing Brazilian Jiu-Jitsu, reading fantasy novels, exploring the PNW, and studying to earn my Private Pilot License in the near future!
+
+You can contact me through <a href="https://www.linkedin.com/in/marcorvazquez/">LinkedIn</a> or <a href="mailto:marco@marcorvazquez.com">email</a>. Let’s connect!
 
 ✍️ Blog & Projects
 ---
-I also maintain a <a href="https://marcorvazquez.com">blog</a> and a <a href="https://kb.marcorvazquez.com">personal knowledge base</a>.
+You can also find out what I am currently up to on my <a href="https://marcorvazquez.com">website</a> or my <a href="https://kb.marcorvazquez.com">personal knowledge base</a>.
   
   
 🧰 Tools & Technologies
