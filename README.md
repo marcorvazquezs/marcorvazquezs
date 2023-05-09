@@ -8,7 +8,7 @@
 </p>
 
 # Hi there! 
-<p align="left">My name is Marco Vazquez and I am an information security professional living in Seattle, WA. I have over 7 years of experience in IT Operations and Cybersecurity. I started my career in tech, as many of us do, as a User Support Analyst, aka Help Desk Specialist. 
+<p align="left">My name is Marco Vazquez and I am an information security professional living in Seattle, WA. I have over 10 years of experience in IT Operations and Cybersecurity. I started my career in tech, as many of us do, as a User Support Analyst, aka Help Desk Specialist. 
 
 I have a passion for exploring all things cybersecurity and its evolving landscape. In a field that’s constantly changing, I strive to consistently sharpen and expand my skillset and knowledge.  
 
