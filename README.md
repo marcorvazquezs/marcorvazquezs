@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marcorvazquez/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:marco@marcorvazquez.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
+<a href="mailto:marcorvazquezs@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <a href="https://marcorvazquez.com/" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/webs.png"></a>&nbsp;&nbsp;
 <a href="https://kb.marcorvazquez.com/" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/kb.png"></a>&nbsp;&nbsp;
 </p>
@@ -14,7 +14,7 @@ I have a passion for exploring all things cybersecurity and its evolving landsca
 
 Outside of tinkering with technology and reading about cybersecurity, I enjoy practicing Brazilian Jiu-Jitsu, reading fantasy novels, exploring the PNW, and studying to earn my Private Pilot License in the near future!
 
-You can contact me through <a href="https://www.linkedin.com/in/marcorvazquez/">LinkedIn</a> or <a href="mailto:marco@marcorvazquez.com">email</a>. Let’s connect!
+You can contact me through <a href="https://www.linkedin.com/in/marcorvazquez/">LinkedIn</a> or <a href="mailto:marcorvazquezs@gmail.com">email</a>. Let’s connect!
 
 ✍️ Blog & Projects
 ---
