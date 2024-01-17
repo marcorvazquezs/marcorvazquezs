@@ -1,4 +1,4 @@
-[![marco vazquez's header](./images/LinkedIn%20Banner.png)](https://marcorvazquez.com)
+[![marco vazquez's header](./images/)](https://marcorvazquez.com)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marcorvazquez/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
